@@ -6,3 +6,9 @@ font-size: 30px;
 .Parrafo{
     color: red;
 }
+
+/*id*/
+#titulo1{
+    color: greenyellow;
+    font-size: 24px;
+}
